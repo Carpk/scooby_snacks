@@ -11,7 +11,7 @@
 treats = [{name: "Mr. Beefy Chewybits", price: 5, description: ""},
           {name: "La Francia Cheesetabs", price: 5, description: ""},
           {name: "British Traditional Liver & Onions", price: 5, description: ""},
-          {name: "Captain Larry's Daily Fish Catch", price: 5, description: ""}]
+          {name: "Captain Larry's Fresh Fish Catch", price: 5, description: ""}]
 
 
 treats.each do |treat|
