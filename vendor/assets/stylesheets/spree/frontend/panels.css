@@ -1,0 +1,17 @@
+
+.panel-default {
+  border-color: white;
+}
+
+.panel-footer {
+  border-top: none;
+}
+
+.list-group-item {
+  border: none;
+}
+
+.panel-body {
+  padding: 32px;
+}
+
