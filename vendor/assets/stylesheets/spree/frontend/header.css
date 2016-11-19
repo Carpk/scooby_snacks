@@ -1,5 +1,17 @@
 
 #spree-header #header {
-  padding: 35px 0;
+  padding: 15px 0;
+}
+
+#spree-header #logo a img {
+  width: 200px;
+}
+
+@media (min-width: 992px) {
+  #spree-header #logo a img {
+    width: 300px;
+    margin-bottom: 75px;
+  }
+
 }
 
