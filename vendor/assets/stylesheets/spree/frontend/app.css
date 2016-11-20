@@ -1,0 +1,14 @@
+
+body {
+  // font-family: "JosefinSans-Regular";
+}
+
+.btn-success {
+  background-color: #2A43DB;
+  border-color: #243bc1;
+}
+
+.btn-success:hover{
+  background-color: #152baf;
+  border-color: #11228c;
+}
