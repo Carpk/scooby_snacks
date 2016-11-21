@@ -1,6 +1,7 @@
 
 #spree-header #header {
   padding: 15px 0;
+  background: rgba(214, 214, 214, 0.4);
 }
 
 #spree-header #logo a img {
