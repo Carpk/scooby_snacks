@@ -80,6 +80,6 @@ test:
 #
 production:
   <<: *default
-  database: scooby_snacks_pg_production
-  username: scooby_snacks_pg
+  database: <%= ENV['SCOOBY_DB'] %>
+  username: <%= ENV['SCOOBY_USER'] %>
   password: <%= ENV['SCOOBY_SNACKS_PG_DATABASE_PASSWORD'] %>
