@@ -1,6 +1,6 @@
 ---
 layout: blog_by_category
-title: '设计'
+title: 'Tips&Tricks'
 category: design
-permalink: /Design/
+permalink: /tips-and-tricks/
 ---
