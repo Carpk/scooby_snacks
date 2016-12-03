@@ -20,7 +20,7 @@ theme:
   header_text_feature_image: img/sample_feature_img.png
   place_holder_image: img/sample_feature_img.png
   footer_text: >
-   <a href="https://yoursite.com">YOUR TITLE</a> 
+    <a href="https://scoobysnacks.s3-website-us-west-2.amazonaws.com">Scooby Snacks</a> 
 
   # Icons
   rss: false
@@ -30,7 +30,7 @@ theme:
   dribbble:
   facebook:
   flickr:
-  github: "fengzhichu"
+  github: "carpk"
   weibo: 
   google_plus:
   instagram:
@@ -41,12 +41,12 @@ theme:
   stack_exchange:  # Full URL
   steam:
   tumblr:
-  twitter: "fengzhichu"
+  twitter: "ShawnKlein202"
   wordpress:
   youtube:
 
   # Scripts
-  google_analytics: # Tracking ID, e.g. "UA-000000-01"
+  google_analytics: UA-88420220-1 # Tracking ID, e.g. "UA-000000-01"
   disqus_shortname:
   katex: true # Enable if using math markup
 

@@ -1,3 +1,9 @@
+<style>
+  .page-footer .footer-hidden {
+    color: #191919;
+  }
+</style>
+
 {% if site.theme.katex %}
 <script src="{{ "/js/katex_init.js" | prepend: site.baseurl }}"></script>
 {% endif %}
@@ -6,6 +12,6 @@
 <footer id="page-footer-trans" class="page-footer">
 	<!--<p class="text">{{ site.theme.footer_text }}</p>-->
 	Copyright &copy; {{ site.time | date: '%Y' }} {{ site.theme.footer_text }} All Rights Reserved. 
-	<p class="text">Hosted by <a href="https://github.com">GitHub</a>. Theme created by <a href="https://github.com/fengzhichu/fengzhichu-theme/tree/gh-pages">枫之楚</a></p>
+  <p class="text footer-hidden"><a class="footer-hidden" href="https://ShawnKlein.net">Site developed by: Klein Design</a></p>
 </footer>
 {% endif %}
