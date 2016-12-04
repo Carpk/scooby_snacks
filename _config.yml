@@ -1,7 +1,7 @@
 # SITE CONFIGURATION
 baseurl: "" # Set it to "" if use for personal site. The subpath of your site, e.g. /blog/
 url: "https://fengzhichu.com/fengzhichu-theme" # the base hostname & protocol for your site
-imageurl: "https://source.unsplash.com/800x300/?dogs,dog" # https://source.unsplash.com/featured/?{KEYWORD},{KEYWORD} "https://source.unsplash.com/category/nature/2600x500" "https://unsplash.it/2600/500?random"
+imageurl: "https://source.unsplash.com/1200x800/?puppy" # https://source.unsplash.com/featured/?{KEYWORD},{KEYWORD} "https://source.unsplash.com/category/nature/2600x500" "https://unsplash.it/2600/500?random"
 
 # THEME-SPECIFIC CONFIGURATION
 theme:

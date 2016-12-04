@@ -14,3 +14,19 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 /* Page Builder Modules Styles */
 @import url("./frontend-builder-style.css");
+
+header {
+  background-position: center;
+}
+
+.feature-image header{
+  padding: 10% 20%;
+}
+
+.call-out-content {
+  text-shadow: 1px 1px black;
+}
+
+.call-out-title {
+  text-shadow: 1px 1px black;
+}
