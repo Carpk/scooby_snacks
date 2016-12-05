@@ -30,3 +30,12 @@ header {
 .call-out-title {
   text-shadow: 1px 1px black;
 }
+
+.posts .post-teaser {
+  border-top: none;
+}
+
+.page-footer .footer-hidden {
+  color: #191919;
+}
+
